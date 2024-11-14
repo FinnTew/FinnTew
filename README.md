@@ -1,18 +1,13 @@
-# 你好，我是 FinnTew 👋
+# Hello, I'm FinnTew 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/FinnTew?label=Follow&style=social)](https://github.com/FinnTew)
 [![GitHub stars](https://img.shields.io/github/stars/FinnTew?affiliations=OWNER%2CCOLLABORATOR&style=social)](https://github.com/FinnTew)
 
-## 👨‍💻 关于我
+## 👨‍💻 About Me
 
-- 🔭 我目前正在研究 **[FinnKV](项目链接)**
-- 🌱 我目前正在学习 **技术/语言**
-- 👯 我正在寻找合作 **项目/角色**
-- 🤔 我需要帮助 **话题/领域**
-- 💬 请随时问我关于 **话题** 的问题
-- 📫 如何联系我: [![Gmail Badge](https://img.shields.io/badge/-youremail@example.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:youremail@example.com)](mailto:youremail@example.com)
-- 😄 代称: **你的昵称**
-- ⚡ 有趣的事实: **有趣的事情**
+- 🔭 What I'm currently doing: **[FinnKV](https://github.com/FinnTew/FinnKV)**
+- 📫 How to contact me: [![Gmail Badge](https://img.shields.io/badge/-tidalglowe@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:tidalglowe@gmail.com)](mailto:tidalglowe@gmail.com)
+- 😄 Nick: **FinnTew**
 
 ## 🚀 技能
 
