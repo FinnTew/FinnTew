@@ -12,11 +12,11 @@
 
 ![technical ability](https://skillicons.dev/icons?i=golang,mysql,redis,kafka,python,github,linux&theme=light)
 
-## 📊 我的GitHub统计
+## 📊 My GitHub
 
-![你的 GitHub 统计](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![GitHub 统计](https://github-readme-stats.vercel.app/api?username=FinnTew&show_icons=true&theme=radical)
 
-![你的语言统计](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![语言统计](https://github-readme-stats.vercel.app/api/top-langs/?username=FinnTew&layout=compact&theme=radical)
 
 ## 🔥 最近的活动
 
