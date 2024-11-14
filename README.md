@@ -12,23 +12,11 @@
 
 ![technical ability](https://skillicons.dev/icons?i=golang,mysql,redis,kafka,python,github,linux&theme=light)
 
-## 📊 My GitHub
+## 📊 My Github Statistics
 
 ![GitHub 统计](https://github-readme-stats.vercel.app/api?username=FinnTew&show_icons=true&theme=radical)
 
 ![语言统计](https://github-readme-stats.vercel.app/api/top-langs/?username=FinnTew&layout=compact&theme=radical)
-
-## 🔥 最近的活动
-
-<!--START_SECTION:activity-->
-1. 💪 开源了 [新项目](项目链接)
-2. 🎉 参与了 [某个讨论](讨论链接)
-3. 🐛 修复了 [某个Bug](Bug链接)
-<!--END_SECTION:activity-->
-
-## 🌟 精选项目
-
-[![项目名称](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=yourrepo&theme=radical)](项目链接)
 
 ## 📫 联系我
 
