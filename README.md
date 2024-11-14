@@ -7,11 +7,10 @@
 
 - 🔭 What I'm currently doing: **[FinnKV](https://github.com/FinnTew/FinnKV)**
 - 📫 How to contact me: [![Gmail Badge](https://img.shields.io/badge/-tidalglowe@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:tidalglowe@gmail.com)](mailto:tidalglowe@gmail.com)
-- 😄 Nick: **FinnTew**
 
-## 🚀 技能
+## 🚀 Technical Ability
 
-![技能图标](https://skillicons.dev/icons?i=python,javascript,html,css,react,vue,github,linux&theme=light)
+![technical ability](https://skillicons.dev/icons?i=golang,github,linux,goland&theme=light)
 
 ## 📊 我的GitHub统计
 
