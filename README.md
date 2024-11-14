@@ -10,7 +10,7 @@
 
 ## 🚀 Technical Ability
 
-![technical ability](https://skillicons.dev/icons?i=golang,github,linux,goland&theme=light)
+![technical ability](https://skillicons.dev/icons?i=golang,mysql,redis,kafka,github,linux&theme=light)
 
 ## 📊 我的GitHub统计
 
