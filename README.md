@@ -5,6 +5,7 @@
 
 ## 👨‍💻 About Me
 
+- 💬 This is my blog: **[finntew.github.io](https://finntew.github.io)**
 - 🔭 What I'm currently doing: **[FinnKV](https://github.com/FinnTew/FinnKV)**
 - 📫 How to contact me: [![Gmail Badge](https://img.shields.io/badge/-tidalglowe@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:tidalglowe@gmail.com)](mailto:tidalglowe@gmail.com)
 
@@ -14,15 +15,10 @@
 
 ## 📊 My Github Statistics
 
-![GitHub 统计](https://github-readme-stats.vercel.app/api?username=FinnTew&show_icons=true&theme=radical)
+![Github Statistics](https://github-readme-stats.vercel.app/api?username=FinnTew&show_icons=true&theme=radical)
 
-![语言统计](https://github-readme-stats.vercel.app/api/top-langs/?username=FinnTew&layout=compact&theme=radical)
-
-## 📫 联系我
-
-[![LinkedIn](https://img.shields.io/badge/-YourName-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourlinkedin/)](https://www.linkedin.com/in/yourlinkedin/)
-[![Twitter](https://img.shields.io/badge/-@yourtwitterhandle-1DA1F2?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/yourtwitterhandle)](https://twitter.com/yourtwitterhandle)
+![Language Statistics](https://github-readme-stats.vercel.app/api/top-langs/?username=FinnTew&layout=compact&theme=radical)
 
 ---
 
-*感谢你的访问！希望你有美好的一天！* ✨
+*Thank you for your visit! Hope you have a great day!* ✨
