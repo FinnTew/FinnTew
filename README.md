@@ -15,7 +15,8 @@
 
 [![statu](https://github-readme-stats.kituin.fun/api?username=FinnTew&show_icons=true&theme=gruvbox&locale=cn)](https://github.com/anuraghazra/github-readme-stats)  
 
-
+## 🗠 Lines of Code chart
+![Lines of Code chart](https://raw.githubusercontent.com/FinnTew/FinnTew/main/assets/bar_graph.png)
 ---
 
 *Thank you for your visit! Hope you have a great day!* ✨
