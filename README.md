@@ -5,6 +5,7 @@
 - 💬 This is my blog: **[finntew.github.io](https://finntew.github.io)**
 - 🔭 What I'm currently doing:
   - **[seata-go](https://github.com/FinnTew/incubator-seata-go)**
+  - **[FincasKV](https://github.com/FinnTew/FincasKV)**
 - 📫 How to contact me: [![Foxmail Badge](https://img.shields.io/badge/-finntew@foxmail.com-c14438?style=flat&logo=Foxmail&logoColor=white&link=mailto:finntew@foxmail.com)](mailto:finntew@foxmail.com)
 
 ## 🚀 Technical Ability
