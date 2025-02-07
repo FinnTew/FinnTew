@@ -10,7 +10,7 @@
 
 ## 🚀 Technical Ability
 
-![technical ability](https://skillicons.dev/icons?i=golang,python,java,mysql,redis,rabbitmq,github,linux,docker&theme=light)
+![technical ability](https://skillicons.dev/icons?i=golang,python,java,mysql,redis,rabbitmq.minio,github,linux,docker&theme=light)
 
 ## 💻 My Top Langs & 📊 My Github Statistics
 
