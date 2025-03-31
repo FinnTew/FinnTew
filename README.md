@@ -8,7 +8,7 @@
   - **[kiwi](https://github.com/arana-db/kiwi)**: A C++20 implementation of Redis Server.
   - **[FincasKV](https://github.com/FinnTew/FincasKV)**: A distributed Key/Value storage based on Bitcask storage model.
   - **[FtFlow](https://github.com/FinnTew/FtFlow)**: A workflow engine based on state machine and DAG implementation.
-- 📫 How to contact me: [![Foxmail Badge](https://img.shields.io/badge/-finntew@foxmail.com-c14438?style=flat&logo=Foxmail&logoColor=white&link=mailto:finntew@foxmail.com)](mailto:finntew@foxmail.com)
+- 📫 How to contact me: [![Foxmail Badge](https://img.shields.io/badge/-tew@galxe.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:tew@galxe.com)](mailto:tew@galxe.com)
 
 ## 🚀 Technical Ability
 
